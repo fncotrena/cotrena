@@ -1,15 +1,14 @@
 # Hola, soy Federico 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/federico-nicolas-cotrena/])
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-nicolas-cotrena/)
 Soy **Full Stack Developer** con foco en frontend, basado en Puerto Madryn, Chubut, Argentina.
 Más de 3 años de experiencia construyendo soluciones web con **Angular** y **TypeScript**, más backend con **Node.js**, **Express** y **MySQL**. Estudiante avanzado de la Licenciatura en Informática.
 
 ---
 
 ## 🚀 Sobre mí
-
 Me considero una persona resolutiva, enfocada en crear soluciones claras, mantenibles y útiles para problemas reales.
+
 ---
 
 ## 🔧 Stack técnico
@@ -18,8 +17,10 @@ Me considero una persona resolutiva, enfocada en crear soluciones claras, manten
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 - **Frameworks:** Angular (v15+), Angular Material, React Native  
 - **Programación reactiva:** RxJS, Observables  
@@ -45,6 +46,8 @@ Me considero una persona resolutiva, enfocada en crear soluciones claras, manten
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ---
 
 ## 💼 Experiencia
@@ -67,5 +70,6 @@ Me considero una persona resolutiva, enfocada en crear soluciones claras, manten
 
 ## 📫 Contacto
 
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Cotrena-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-nicolas-cotrena/)
--[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nicolascotren@gmail.com))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Cotrena-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-nicolas-cotrena/)
+- [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nicolascotren@gmail.com)
+
